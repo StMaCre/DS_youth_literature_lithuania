@@ -5,3 +5,5 @@ I decided to use this tool to get some key figures about this sector. This was e
 literature in Lithuania.
 
 I used beautiful soup and selenium libraries. 
+
+You can find a thorough explanation on the medium article I wrote: https://medium.com/geekculture/how-to-use-web-scraping-tools-to-gain-insight-into-a-specific-sector-68f3f4bfb1f9 
